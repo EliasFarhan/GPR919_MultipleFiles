@@ -1,7 +1,7 @@
 
 #include "pch.h"
 
-int max_numbers(int* array, int size)
+int max(int* array, int size)
 {
 	int index_max_nmb = 0;
 	for (int i = 0; i < size; i++)
