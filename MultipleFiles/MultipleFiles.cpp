@@ -10,7 +10,8 @@ int main()
 	const int size = 10;
 	int array[10];
 
-	max(array, size);
+	max_numbers(array, size);
+	min_numbers(array, size);
     std::cout << "Hello World!\n"; 
 }
 

@@ -1,3 +1,4 @@
 #pragma once
 
-int max(int* array, int size);
+int max_numbers(int* array, int size);
+int min_numbers(int* array, int size);
